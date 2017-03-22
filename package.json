@@ -1,0 +1,15 @@
+{
+  "name": "zalton-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A colorful syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/rickyryden/zalton-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
