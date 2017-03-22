@@ -2,10 +2,10 @@
 
 A colorful syntax theme for Atom.
 
-![PHP](assets/zalton-php.png?raw=true)
+![PHP](https://raw.githubusercontent.com/rickyryden/zalton-syntax/master/assets/zalton-php.png)
 
-![JavaScript](assets/zalton-js.png?raw=true)
+![JavaScript](https://raw.githubusercontent.com/rickyryden/zalton-syntax/master/assets/zalton-js.png)
 
-![CSS](assets/zalton-css.png?raw=true)
+![CSS](https://raw.githubusercontent.com/rickyryden/zalton-syntax/master/assets/zalton-css.png)
 
 Color inspiration from uixNinja @ dribbble https://dribbble.com/shots/2932388-code-editor-redesign/attachments/608732
