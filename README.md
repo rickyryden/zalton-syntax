@@ -6,6 +6,6 @@ A colorful syntax theme for Atom.
 
 ![JavaScript](assets/zalton-js.png?raw=true)
 
-![CSS](assets/zalton-css.pmg?raw=true)
+![CSS](assets/zalton-css.png?raw=true)
 
 Color inspiration from uixNinja @ dribbble https://dribbble.com/shots/2932388-code-editor-redesign/attachments/608732
